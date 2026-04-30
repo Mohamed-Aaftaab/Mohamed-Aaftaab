@@ -2,7 +2,7 @@
 
 🎓 B.E. Computer Science (AI Specialization) — Sathyabama Institute of Science & Technology  
 💼 Aspiring Software Engineer | Python Automation | Embedded Systems | AI/ML  
-📍 Chennai, India | 📧 Aaftaabappu@gmail.com | [LinkedIn](https://linkedin.com/in/mohamed-aaftaab)
+📍 Chennai, India | 📧 Aaftaabappu@gmail.com | [LinkedIn](https://www.linkedin.com/in/mohamed-aaftaab-74864631a/)
 
 ---
 
@@ -56,13 +56,6 @@ I'm a Computer Science graduate specializing in **Artificial Intelligence**, pas
 - Servo PWM control and real-time motion sequencing
 - Test harness for motion accuracy analysis and iterative tuning
 - **Tech:** C++, Arduino, Embedded Systems, PWM
-
----
-
-## 📊 GitHub Stats
-
-![Aaftaab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadCoder007&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MadCoder007&layout=compact&theme=tokyonight)
 
 ---
 
