@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi, I'm Mohamed Aaftaab 👋
 
-<!--
-**Mohamed-Aaftaab/Mohamed-Aaftaab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E. Computer Science (AI Specialization) — Sathyabama Institute of Science & Technology  
+💼 Aspiring Software Engineer | Python Automation | Embedded Systems | AI/ML  
+📍 Chennai, India | 📧 Aaftaabappu@gmail.com | [LinkedIn](https://linkedin.com/in/mohamed-aaftaab)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a Computer Science graduate specializing in **Artificial Intelligence**, passionate about building automation systems, hardware-software integrations, and data-driven tools. I enjoy solving real-world problems through clean, reliable code.
+
+- 🔭 Currently working on: improving my ML project portfolio
+- 🌱 Learning: FastAPI, Docker, and system design
+- 💬 Ask me about: Python automation, embedded systems, or SQL
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+
+**Libraries & Frameworks**  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**Tools**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### 🌐 [Website Health Check System](https://github.com/MadCoder007/website-health-check)
+> Python-based automated monitoring system — built during Cognizant CAFE Project
+- Polls 50+ websites, parses HTTP response codes, logs latency data
+- Modular architecture: data collection → validation → reporting
+- Fault-tolerant with retry logic and error handling
+- **Tech:** Python, REST APIs, HTTP, Logging
+
+### 🤖 [Robotic Arm Automation](https://github.com/MadCoder007/robotic-arm-automation)
+> Arduino + C++ firmware for a multi-joint robotic arm
+- Servo PWM control and real-time motion sequencing
+- Test harness for motion accuracy analysis and iterative tuning
+- **Tech:** C++, Arduino, Embedded Systems, PWM
+
+---
+
+## 📊 GitHub Stats
+
+![Aaftaab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadCoder007&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MadCoder007&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 Certifications
+- 📜 Digital 101 Journey — NASSCOM (2024)
+- 📜 Introduction to MongoDB — MongoDB (2024)
+- 📜 CTS Cafe Project — Cognizant (2023)
+- 📜 Basics of IoT — HTS Startup (2022)
