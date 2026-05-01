@@ -13,9 +13,9 @@ I'm a Computer Science graduate specializing in **Artificial Intelligence**, pas
 - 🔭 Currently working on: improving my ML project portfolio
 - 🌱 Learning: FastAPI, Docker, and system design
 - 💬 Ask me about: Python automation, embedded systems, or SQL
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ---
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 🛠️ Tech Stack
 
